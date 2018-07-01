@@ -2,6 +2,7 @@
 ACM RecSys Challenge 2018 - One Million Playlist
 
 Introduction:
+
 The set of programs are used within the ACM RecSys Challenge 2018 Competition. The challenge focused on music recommendations containing 1 million playlists within the online music streaming service, Spotify. The challenge involves recommending 500 song tracks for 10000 playlists. The set of programs produces recommendations based on the co-occurrence of tracks seen within other playlists.
 
 Requirements:
